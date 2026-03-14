@@ -19,6 +19,37 @@ export const projects = [
   },
 
   {
+    title: 'Real-Time Speech Transcription Pipeline',
+    summary:
+      'Python-based real-time speech-to-text pipeline with audio preprocessing, MFCC feature extraction, and PyTorch inference to simulate low-latency ASR workflows.',
+    tech: [
+      'Python',
+      'PyTorch',
+      'Audio Processing',
+      'Speech Recognition',
+      'NumPy',
+      'Librosa',
+      'Signal Processing',
+    ],
+    github: 'https://github.com/aerofa45/realtime-speech-transcription-pipeline',
+  },
+
+  {
+    title: 'ASR Performance Benchmark Toolkit',
+    summary:
+      'Benchmarking toolkit for speech-to-text pipelines measuring latency, throughput, and preprocessing cost for real-time audio inference systems.',
+    tech: [
+      'Python',
+      'Audio DSP',
+      'Benchmarking',
+      'Librosa',
+      'NumPy',
+      'Performance',
+    ],
+    github: 'https://github.com/aerofa45/asr-performance-benchmark-toolkit',
+  },
+
+  {
     title: 'PINN Thesis and Research Modeling',
     summary:
       'Research project on Physics-Informed Neural Networks (PINNs) for scientific modeling using differential equation constraints and custom loss functions for research-driven experimentation.',
