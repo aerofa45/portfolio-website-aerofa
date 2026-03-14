@@ -28,4 +28,19 @@ export const projects = [
     tech: ['Python', 'Streamlit', 'Web Scraping', 'Automation'],
     github: 'https://github.com/aerofa45/Amazon_discount',
   },
+  {
+    title: 'Equity Portfolio Analytics',
+    summary:
+      'Built an end-to-end equity portfolio analytics project using Python, SQLite, and Streamlit with portfolio return analysis, risk metrics, benchmark comparison, and an interactive dashboard for performance monitoring.',
+    tech: ['Python', 'SQLite', 'Streamlit', 'Pandas', 'Plotly', 'Analytics'],
+    github: 'https://github.com/aerofa45/Equity-Analytics-Portfolio-Project',
+    demo: 'https://equity-analytics-portfolio-project-5mou7if7fsgkzixa36e3sx.streamlit.app/',
+  },
+  {
+    title: 'Marketing Analytics Customer Insights',
+    summary:
+      'Created an end-to-end marketing analytics project using SQL Server, Python sentiment analysis, and Power BI to analyze engagement, conversion trends, customer feedback, and campaign performance for an e-commerce case study.',
+    tech: ['SQL Server', 'Python', 'Power BI', 'Pandas', 'VADER', 'DAX'],
+    github: 'https://github.com/aerofa45/marketing-analytics-customer-insights',
+  },
 ];
