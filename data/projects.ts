@@ -19,6 +19,22 @@ export const projects = [
   },
 
   {
+    title: 'Whisper Streaming Transcriber',
+    summary:
+      'Speech-to-text pipeline built with Whisper-style inference supporting file transcription, chunked streaming, FFmpeg preprocessing, and latency benchmarking for real-time captioning workflows.',
+    tech: [
+      'Python',
+      'Whisper',
+      'faster-whisper',
+      'FFmpeg',
+      'Audio Processing',
+      'Benchmarking',
+      'NumPy',
+    ],
+    github: 'https://github.com/aerofa45/whisper-streaming-transcriber',
+  },
+
+  {
     title: 'Real-Time Speech Transcription Pipeline',
     summary:
       'Python-based real-time speech-to-text pipeline with audio preprocessing, MFCC feature extraction, and PyTorch inference to simulate low-latency ASR workflows.',
@@ -50,6 +66,22 @@ export const projects = [
   },
 
   {
+    title: 'Audio & Signal Processing Projects',
+    summary:
+      'Collection of audio and biomedical signal processing projects including speech emotion recognition, ECG denoising, and spectral analysis using Python, NumPy, and signal processing techniques.',
+    tech: [
+      'Python',
+      'Signal Processing',
+      'MFCC',
+      'Wavelet',
+      'NumPy',
+      'Librosa',
+      'Data Science',
+    ],
+    github: 'https://github.com/aerofa45/data-portfolio',
+  },
+
+  {
     title: 'PINN Thesis and Research Modeling',
     summary:
       'Research project on Physics-Informed Neural Networks (PINNs) for scientific modeling using differential equation constraints and custom loss functions for research-driven experimentation.',
@@ -72,14 +104,6 @@ export const projects = [
     tech: ['Python', 'NLP', 'Document QA', 'LLMs'],
     github: 'https://github.com/aerofa45/document-qa',
     demo: 'https://document-question-answering-template.streamlit.app/',
-  },
-
-  {
-    title: 'Amazon Discount Tracker',
-    summary:
-      'Web scraping automation tool built with Python and Streamlit that monitors product pages and detects price drops.',
-    tech: ['Python', 'Streamlit', 'Web Scraping', 'Automation'],
-    github: 'https://github.com/aerofa45/Amazon_discount',
   },
 
   {
