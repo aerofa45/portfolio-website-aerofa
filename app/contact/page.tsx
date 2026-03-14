@@ -56,6 +56,20 @@ export default function ContactPage() {
             Read Articles
           </a>
         </div>
+        {/* Google Scholar */}
+        <div className="rounded-xl border border-slate-200 p-5 bg-white">
+          <p className="font-semibold mb-2">Google Scholar</p>
+        
+          <a
+            href="https://scholar.google.com/citations?hl=en&user=xvsTrZgAAAAJ"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block rounded-lg bg-blue-600 px-4 py-2 text-white hover:bg-blue-700"
+          >
+            View Publications
+          </a>
+        </div>
+        
       </div>
     </main>
   );
