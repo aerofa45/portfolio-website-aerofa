@@ -32,6 +32,7 @@ export const projects = [
       'NumPy',
     ],
     github: 'https://github.com/aerofa45/whisper-streaming-transcriber',
+    demo: 'https://huggingface.co/spaces/aerofa24/Whisper_Real_Time_ASR',
   },
 
   {
