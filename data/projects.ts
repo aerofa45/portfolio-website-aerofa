@@ -31,7 +31,7 @@ export const projects = [
       'Benchmarking',
       'NumPy',
     ],
-    github: 'https://github.com/aerofa45/whisper-streaming-transcriber',
+    github: 'https://github.com/aerofa45/realtime-speech-transcription-pipeline',
     demo: 'https://huggingface.co/spaces/aerofa24/Whisper_Real_Time_ASR',
   },
 
