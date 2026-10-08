@@ -87,7 +87,7 @@ export const projects = [
     summary:
       'Research project on Physics-Informed Neural Networks (PINNs) for scientific modeling using differential equation constraints and custom loss functions for research-driven experimentation.',
     tech: ['Python', 'PINNs', 'Deep Learning', 'Scientific Modeling'],
-    github: 'https://github.com/aerofa45/PINN_Thesis',
+    github: 'https://github.com/aerofa45/PINN_Thesis/blob/main/Bachelor's_Independent_Research_thesis_paper.pdf',
   },
 
   {
